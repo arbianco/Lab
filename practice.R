@@ -1,5 +1,5 @@
 ## Practice the following problem 
-
+x<- 5
 # What is the sum of the first 1000 positive integers?
 
 #1. Use the function c to create a vector with the average high temperatures in January for
